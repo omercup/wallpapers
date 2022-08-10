@@ -1,5 +1,5 @@
 <samp>
-	<h1 align="center">omercup's wallpaper collection</h1>
+	<h1 align="center">omercup's wallpaper picks</h1>
 	<p>
 		i collected these wallpapers from different sources throughout the years. i love them so much, i don't want to deal with the struggle of trying to find each of them again. that is mainly why i decided to create this repository in the first place.
 	</p>
